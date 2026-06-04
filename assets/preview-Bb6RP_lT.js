@@ -1,0 +1,1 @@
+import{R as e}from"./index-GiUgBvb1.js";const a=[t=>e.createElement(e.Fragment,null,e.createElement(t,null))],n={actions:{argTypesRegex:"^on[A-Z].*"},controls:{expanded:!0}};export{a as decorators,n as parameters};

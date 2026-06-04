@@ -1,0 +1,1 @@
+const r=()=>React.createElement("div",null,"OwlOut Storybook"),c={title:"Example/Placeholder",component:r},e={};var t,a,o;e.parameters={...e.parameters,docs:{...(t=e.parameters)==null?void 0:t.docs,source:{originalSource:"{}",...(o=(a=e.parameters)==null?void 0:a.docs)==null?void 0:o.source}}};const s=["Default"];export{e as Default,s as __namedExportsOrder,c as default};
